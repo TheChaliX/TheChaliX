@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="248" viewBox="0 0 900 248">
+<defs>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#3FB27F" stop-opacity=".16"/><stop offset="1" stop-color="#3FB27F" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="247" rx="14" fill="#10161D" stroke="#232B34"/>
+
+<text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="1">04</text>
+<text x="72" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#E6EAE7" text-anchor="start" letter-spacing="2">CÓMO TRABAJO</text>
+<text x="197.84" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1">/ How I work</text>
+<line x1="40" y1="62" x2="860" y2="62" stroke="#232B34"/>
+<rect x="40" y="88" width="193" height="128" rx="10" fill="#0D1117" stroke="#232B34"/>
+<text x="58.0" y="116" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="0">01</text>
+<text x="58.0" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Escuchar</text>
+<text x="58.0" y="180" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Entender qué necesita</text>
+<text x="58.0" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">quien lo va a usar.</text>
+<text x="241.0" y="156" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="middle" letter-spacing="0">→</text>
+<rect x="249" y="88" width="193" height="128" rx="10" fill="#0D1117" stroke="#232B34"/>
+<text x="267.0" y="116" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="0">02</text>
+<text x="267.0" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Modelar</text>
+<text x="267.0" y="180" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Datos y flujo antes</text>
+<text x="267.0" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">de escribir código.</text>
+<text x="450.0" y="156" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="middle" letter-spacing="0">→</text>
+<rect x="458" y="88" width="193" height="128" rx="10" fill="#0D1117" stroke="#232B34"/>
+<text x="476.0" y="116" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="0">03</text>
+<text x="476.0" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Lo mínimo</text>
+<text x="476.0" y="180" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Una versión simple</text>
+<text x="476.0" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">que ya sirva.</text>
+<text x="659.0" y="156" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="middle" letter-spacing="0">→</text>
+<rect x="667" y="88" width="193" height="128" rx="10" fill="#0D1117" stroke="#232B34"/>
+<text x="685.0" y="116" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="0">04</text>
+<text x="685.0" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Iterar</text>
+<text x="685.0" y="180" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Ajustar con feedback</text>
+<text x="685.0" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">real, no supuesto.</text>
+
+</svg>

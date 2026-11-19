@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="256" viewBox="0 0 900 256">
+<defs>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#3FB27F" stop-opacity=".16"/><stop offset="1" stop-color="#3FB27F" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="255" rx="14" fill="#10161D" stroke="#232B34"/>
+
+<text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="1">05</text>
+<text x="72" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#E6EAE7" text-anchor="start" letter-spacing="2">AHORA</text>
+<text x="132.6" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1">/ Now</text>
+<line x1="40" y1="62" x2="860" y2="62" stroke="#232B34"/>
+<circle cx="46" cy="103" r="3.5" fill="#3FB27F"/>
+<text x="62" y="108" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="0">construyendo</text>
+<text x="190" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#E6EAE7" text-anchor="start" letter-spacing="0">stock-deco para más comercios y un sistema de reservas de pádel.</text>
+<circle cx="46" cy="139" r="3.5" fill="#3FB27F"/>
+<text x="62" y="144" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="0">aprendiendo</text>
+<text x="190" y="144" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Spring Boot, arquitectura de software y deploy en la nube.</text>
+<circle cx="46" cy="175" r="3.5" fill="#3FB27F"/>
+<text x="62" y="180" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="0">buscando</text>
+<text x="190" y="180" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Mi primera experiencia profesional en desarrollo.</text>
+<text x="62" y="216" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">building · learning · open to my first dev role</text>
+
+</svg>

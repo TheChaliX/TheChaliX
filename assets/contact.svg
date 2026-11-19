@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="232" viewBox="0 0 900 232">
+<defs>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#3FB27F" stop-opacity=".16"/><stop offset="1" stop-color="#3FB27F" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="231" rx="14" fill="#10161D" stroke="#232B34"/>
+
+<text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="1">08</text>
+<text x="72" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#E6EAE7" text-anchor="start" letter-spacing="2">CONTACTO</text>
+<text x="160.56" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1">/ Contact</text>
+<line x1="40" y1="62" x2="860" y2="62" stroke="#232B34"/>
+<text x="40" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#E6EAE7" text-anchor="start" letter-spacing="0">¿Tenés un negocio que necesita ordenarse, o un equipo donde pueda sumar?</text>
+<text x="40" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Got a business that needs a system, or a team I can join?</text>
+<rect x="40" y="160" width="300" height="42" rx="21" fill="#3FB27F"/>
+<text x="190.0" y="186" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#06110C" text-anchor="middle" letter-spacing="0">antochalita65@gmail.com</text>
+<text x="358" y="186" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">escribime / write me →</text>
+
+</svg>

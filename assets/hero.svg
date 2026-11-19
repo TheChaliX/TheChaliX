@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<defs>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#3FB27F" stop-opacity=".16"/><stop offset="1" stop-color="#3FB27F" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="299" rx="14" fill="#10161D" stroke="#232B34"/>
+<rect width="900" height="300" rx="14" fill="url(#grid)"/><rect width="900" height="300" rx="14" fill="url(#glow)"/>
+<text x="40" y="58" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#8B949E" text-anchor="start" letter-spacing="2">THECHALIX · SANTA FE, ARGENTINA</text>
+<text x="36" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#E6EAE7" text-anchor="start" letter-spacing="-2">Antonio</text>
+<rect x="40" y="162" width="40" height="3" fill="#3FB27F"/>
+<text x="40" y="200" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Construyo software para negocios reales.</text>
+<text x="40" y="226" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">I build software for real businesses.</text>
+<text x="40" y="272" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Desarrollo de Software · Java · Spring Boot · React · SQL</text>
+<rect x="560" y="48" width="300" height="200" rx="10" fill="#0D1117" stroke="#232B34"/>
+<text x="580" y="80" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#8B949E" text-anchor="start" letter-spacing="1">status</text>
+<circle cx="832" cy="76" r="8" fill="#3FB27F" opacity=".18"/><circle cx="832" cy="76" r="4" fill="#3FB27F"/>
+<line x1="580" y1="98" x2="840" y2="98" stroke="#232B34"/>
+<circle cx="586" cy="113" r="3.5" fill="#3FB27F"/>
+<text x="600" y="118" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E6EAE7" text-anchor="start" letter-spacing="0">stock-deco</text>
+<text x="840" y="118" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end" letter-spacing="0">piloto · cliente real</text>
+<line x1="580" y1="132" x2="840" y2="132" stroke="#232B34"/>
+<circle cx="586" cy="147" r="3.5" fill="#D9A441"/>
+<text x="600" y="152" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E6EAE7" text-anchor="start" letter-spacing="0">pipicucu-league</text>
+<text x="840" y="152" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end" letter-spacing="0">en desarrollo</text>
+<line x1="580" y1="166" x2="840" y2="166" stroke="#232B34"/>
+<circle cx="586" cy="181" r="3.5" fill="#6E7681"/>
+<text x="600" y="186" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E6EAE7" text-anchor="start" letter-spacing="0">pp1-reservas</text>
+<text x="840" y="186" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end" letter-spacing="0">entregado</text>
+<line x1="580" y1="200" x2="840" y2="200" stroke="#232B34"/>
+<circle cx="586" cy="215" r="3.5" fill="#6E7681"/>
+<text x="600" y="220" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E6EAE7" text-anchor="start" letter-spacing="0">turnos-medicos</text>
+<text x="840" y="220" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end" letter-spacing="0">entregado</text>
+
+</svg>

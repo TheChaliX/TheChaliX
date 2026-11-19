@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="62" viewBox="0 0 900 62">
+<defs>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#3FB27F" stop-opacity=".16"/><stop offset="1" stop-color="#3FB27F" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="61" rx="14" fill="#10161D" stroke="#232B34"/>
+
+<text x="40" y="38" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Antonio · TheChaliX</text>
+<text x="860" y="38" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end" letter-spacing="0">hecho en Santa Fe, Argentina</text>
+
+</svg>

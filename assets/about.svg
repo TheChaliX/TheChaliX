@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="256" viewBox="0 0 900 256">
+<defs>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#3FB27F" stop-opacity=".16"/><stop offset="1" stop-color="#3FB27F" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="255" rx="14" fill="#10161D" stroke="#232B34"/>
+
+<text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="1">01</text>
+<text x="72" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#E6EAE7" text-anchor="start" letter-spacing="2">SOBRE MÍ</text>
+<text x="160.56" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1">/ About me</text>
+<line x1="40" y1="62" x2="860" y2="62" stroke="#232B34"/>
+<text x="40" y="104" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Estudio Desarrollo de Software en un Instituto de Educación Superior de Santa Fe.</text>
+<text x="40" y="132" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Me gusta que lo que programo se use: además de los trabajos de la carrera,</text>
+<text x="40" y="160" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#E6EAE7" text-anchor="start" letter-spacing="0">armo sistemas para comercios reales y los ajusto con el feedback de quien los usa.</text>
+<text x="40" y="204" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Software development student. I like my code to be used: I build systems for real shops</text>
+<text x="40" y="224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">and improve them with feedback from the people who use them every day.</text>
+
+</svg>

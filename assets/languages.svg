@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="204" viewBox="0 0 900 204">
+<defs>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#3FB27F" stop-opacity=".16"/><stop offset="1" stop-color="#3FB27F" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="203" rx="14" fill="#10161D" stroke="#232B34"/>
+
+<text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#3FB27F" text-anchor="start" letter-spacing="1">06</text>
+<text x="72" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#E6EAE7" text-anchor="start" letter-spacing="2">IDIOMAS</text>
+<text x="151.24" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="1">/ Languages</text>
+<line x1="40" y1="62" x2="860" y2="62" stroke="#232B34"/>
+<rect x="40" y="88" width="402" height="84" rx="10" fill="#0D1117" stroke="#232B34"/>
+<text x="62.0" y="124" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Español</text>
+<text x="62.0" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">Spanish</text>
+<text x="420.0" y="124" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3FB27F" text-anchor="end" letter-spacing="0">nativo</text>
+<text x="420.0" y="150" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end" letter-spacing="0">native</text>
+<rect x="458" y="88" width="402" height="84" rx="10" fill="#0D1117" stroke="#232B34"/>
+<text x="480.0" y="124" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E6EAE7" text-anchor="start" letter-spacing="0">Inglés</text>
+<text x="480.0" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8B949E" text-anchor="start" letter-spacing="0">English</text>
+<text x="838.0" y="124" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3FB27F" text-anchor="end" letter-spacing="0">en aprendizaje</text>
+<text x="838.0" y="150" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end" letter-spacing="0">learning</text>
+
+</svg>

@@ -18,7 +18,7 @@ SANS = "-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
 MONO = "ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
 
 QUERY = """query($u:String!){ user(login:$u){
-  repositories(ownerAffiliation:OWNER, privacy:PUBLIC, first:100){ totalCount
+  repositories(ownerAffiliations:[OWNER], privacy:PUBLIC, first:100){ totalCount
     nodes{ isFork languages(first:10, orderBy:{field:SIZE, direction:DESC}){ edges{ size node{ name color } } } } }
   contributionsCollection{ totalCommitContributions totalPullRequestContributions
     contributionCalendar{ totalContributions weeks{ contributionDays{ contributionCount } } } } } }"""

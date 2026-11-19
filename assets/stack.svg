@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="338" viewBox="0 0 900 338">
+<rect x="0.5" y="0.5" width="899" height="337" rx="14" fill="#FAFAF7" stroke="#E4E4DE"/>
+<text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#1E6B4E" text-anchor="start" letter-spacing="1">02</text>
+<text x="72" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#141414" text-anchor="start" letter-spacing="2">HERRAMIENTAS</text>
+<text x="197.84" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#6E6E6A" text-anchor="start" letter-spacing="1">/ Stack</text>
+<line x1="40" y1="62" x2="860" y2="62" stroke="#E4E4DE"/>
+<text x="40" y="104" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#6E6E6A" text-anchor="start" letter-spacing="1">lenguajes</text>
+<rect x="170" y="86" width="55" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="197.56" y="104" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Java</text>
+<rect x="233.12" y="86" width="99" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="282.52" y="104" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">JavaScript</text>
+<rect x="339.92" y="86" width="48" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="363.84000000000003" y="104" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">SQL</text>
+<text x="40" y="144" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#6E6E6A" text-anchor="start" letter-spacing="1">backend</text>
+<rect x="170" y="126" width="106" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="223.04000000000002" y="144" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Spring Boot</text>
+<rect x="284.08000000000004" y="126" width="84" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="326.20000000000005" y="144" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Supabase</text>
+<rect x="376.32000000000005" y="126" width="92" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="422.08000000000004" y="144" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">REST APIs</text>
+<text x="40" y="184" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#6E6E6A" text-anchor="start" letter-spacing="1">frontend</text>
+<rect x="170" y="166" width="62" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="201.2" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">React</text>
+<rect x="240.4" y="166" width="55" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="267.96000000000004" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Expo</text>
+<rect x="303.52" y="166" width="55" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="331.08" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">HTML</text>
+<rect x="366.64" y="166" width="48" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="390.56" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">CSS</text>
+<text x="40" y="224" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#6E6E6A" text-anchor="start" letter-spacing="1">datos</text>
+<rect x="170" y="206" width="99" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="219.4" y="224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">PostgreSQL</text>
+<rect x="276.8" y="206" width="55" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="304.36" y="224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Neon</text>
+<rect x="339.92" y="206" width="62" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="371.12" y="224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">MySQL</text>
+<rect x="410.32000000000005" y="206" width="41" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="430.6" y="224" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">H2</text>
+<text x="40" y="264" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#6E6E6A" text-anchor="start" letter-spacing="1">deploy</text>
+<rect x="170" y="246" width="48" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="193.92000000000002" y="264" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Git</text>
+<rect x="225.84" y="246" width="70" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="260.68" y="264" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">GitHub</text>
+<rect x="303.52" y="246" width="142" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="374.76" y="264" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Cloudflare Pages</text>
+<rect x="454.0" y="246" width="70" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="488.84000000000003" y="264" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Vercel</text>
+<text x="40" y="304" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#6E6E6A" text-anchor="start" letter-spacing="1">bases</text>
+<rect x="170" y="286" width="48" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="193.92000000000002" y="304" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">POO</text>
+<rect x="225.84" y="286" width="150" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="300.72" y="304" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Modelado de datos</text>
+<rect x="383.6" y="286" width="113" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="440.28000000000003" y="304" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Arquitectura</text>
+<rect x="504.96000000000004" y="286" width="106" height="26" rx="13" fill="#FFFFFF" stroke="#E4E4DE"/>
+<text x="558.0" y="304" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#141414" text-anchor="middle" letter-spacing="0">Estadística</text>
+
+</svg>
